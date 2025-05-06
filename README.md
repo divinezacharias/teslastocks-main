@@ -17,7 +17,7 @@ Detailed instructions are included in the tutorial.
 
 ## Tutorial
 
-https://github.com/Dhanya-Zac/teslastocks/blob/main/tutorial.ipynb
+https://github.com/divinezacharias/teslastocks/blob/main/tutorial.ipynb
 
 ## Examples
 
